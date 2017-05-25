@@ -9,7 +9,7 @@ var config = {
   app_name: 'CMS Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6Lf9Ew8UAAAAAPtEzDq3Tg3FmnHYFKjBy6Vnjtst',  // <----- EDIT ME!
+  recaptcha_sitekey: '6Lf9Ew8UAAAAAMMT8NbPlXIlDh6xZeZ6sNRC087l',  // <----- EDIT ME!
   redirect_uri: 'https://cloudminingservices.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
